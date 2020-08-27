@@ -1,2 +1,0 @@
-# autoAC
-Auto AC App
